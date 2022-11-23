@@ -1,0 +1,763 @@
+{
+  "ammanpatro.in": {
+    "matches": [
+      "www.ammanpatro.in"
+    ],
+    "elementsToRemove": [
+      ".ADs-BG"
+    ]
+  },
+  "cnn": {
+    "matches": [
+      "cnn.com"
+    ],
+    "elementsToRemove": [
+      "div[class^='sp_veil']",
+      "div[class^='sp_message_container']"
+    ]
+  },
+  "dailymotion": {
+    "matches": [
+      "www.dailymotion.com"
+    ],
+    "elementsToRemove": [
+      ".Overlay__containerActive___2te0I"
+    ]
+  },
+  "dmgmedia": {
+    "matches": [
+      "www.dailymail.co.uk",
+      "www.mailonsunday.co.uk",
+      "metro.co.uk"
+    ],
+    "elementsToRemove": [
+      ".container-1Kowb",
+      ".overlay-34_Kj",
+      ".wrapper-3AzfF"
+    ]
+  },
+  "forbes": {
+    "matches": [
+      "www.forbes.com"
+    ],
+    "elementsToRemove": [
+      ".tp-modal",
+      ".tp-backdrop"
+    ]
+  },
+  "fox": {
+    "matches": [
+      "foxbusiness.com",
+      "foxnews.com"
+    ],
+    "elementsToRemove": [
+      ".fc-ab-root"
+    ]
+  },
+  "gannett": {
+    "matches": [
+      "www.aberdeennews.com",
+      "www.ack.net",
+      "www.adelnews.com",
+      "www.agjournalonline.com",
+      "www.alamogordonews.com",
+      "www.aledotimesrecord.com",
+      "www.alicetx.com",
+      "www.amarillo.com",
+      "www.amestrib.com",
+      "www.amtrib.com",
+      "www.app.com",
+      "www.ardmoreite.com",
+      "www.argusleader.com",
+      "www.augustachronicle.com",
+      "www.auroraadvertiser.net",
+      "www.azcentral.com",
+      "www.barnesville-enterprise.com",
+      "www.barnstablepatriot.com",
+      "www.battlecreekenquirer.com",
+      "www.baxterbulletin.com",
+      "www.bcdemocratonline.com",
+      "www.beaconjournal.com",
+      "www.beauregarddailynews.net",
+      "www.bedfordnow.com",
+      "www.blueridgenow.com",
+      "www.blufftontoday.com",
+      "www.boonevilledemocrat.com",
+      "www.boonvilledailynews.com",
+      "www.brownwoodtx.com",
+      "www.buckscountycouriertimes.com",
+      "www.bucyrustelegraphforum.com",
+      "www.burlingtoncountytimes.com",
+      "www.burlingtonfreepress.com",
+      "www.butlercountytimesgazette.com",
+      "www.caller.com",
+      "www.cantondailyledger.com",
+      "www.cantonrep.com",
+      "www.capecodtimes.com",
+      "www.charlestonexpress.com",
+      "www.cheboygannews.com",
+      "www.cherrypointpost.com",
+      "www.chieftain.com",
+      "www.chillicothegazette.com",
+      "www.chillicothenews.com",
+      "www.chillicothetimesbulletin.com",
+      "www.chronicle-express.com",
+      "www.cincinnati.com",
+      "www.citizen-times.com",
+      "www.cjonline.com",
+      "www.clarionledger.com",
+      "www.coloradoan.com",
+      "www.columbiadailyherald.com",
+      "www.columbiatribune.com",
+      "www.commercialappeal.com",
+      "www.coshoctontribune.com",
+      "www.courier-journal.com",
+      "www.courier-tribune.com",
+      "www.courierpostonline.com",
+      "www.courierpress.com",
+      "www.crestviewbulletin.com",
+      "www.currentargus.com",
+      "www.daily-jeff.com",
+      "www.daily-times.com",
+      "www.dailyamerican.com",
+      "www.dailycomet.com",
+      "www.dailycommercial.com",
+      "www.dailyrecord.com",
+      "www.dailyworld.com",
+      "www.dansvilleonline.com",
+      "www.delawareonline.com",
+      "www.delmarvanow.com",
+      "www.demingheadlight.com",
+      "www.democratandchronicle.com",
+      "www.desertsun.com",
+      "www.desmoinesregister.com",
+      "www.devilslakejournal.com",
+      "www.dispatch.com",
+      "www.dnj.com",
+      "www.dodgeglobe.com",
+      "www.donaldsonvillechief.com",
+      "www.doverpost.com",
+      "www.eaglepublications.com",
+      "www.eastpeoriatimescourier.com",
+      "www.echo-pilot.com",
+      "www.ellwoodcityledger.com",
+      "www.elpasotimes.com",
+      "www.enterprisenews.com",
+      "www.eveningsun.com",
+      "www.eveningtribune.com",
+      "www.examiner-enterprise.com",
+      "www.examiner.net",
+      "www.farmforum.net",
+      "www.fayobserver.com",
+      "www.fdlreporter.com",
+      "www.floridatoday.com",
+      "www.fortleetraveller.com",
+      "www.fosters.com",
+      "www.fowlertribune.com",
+      "www.freep.com",
+      "www.ftleavenworthlamp.com",
+      "www.gadsdentimes.com",
+      "www.gainesville.com",
+      "www.galesburg.com",
+      "www.gastongazette.com",
+      "www.gctelegram.com",
+      "www.geneseorepublic.com",
+      "www.goerie.com",
+      "www.gosanangelo.com",
+      "www.goupstate.com",
+      "www.granitefallsnews.com",
+      "www.greatfallstribune.com",
+      "www.greenbaypressgazette.com",
+      "www.greenvilleonline.com",
+      "www.hamburgreporter.com",
+      "www.hattiesburgamerican.com",
+      "www.havenews.com",
+      "www.hdnews.net",
+      "www.heralddemocrat.com",
+      "www.heraldmailmedia.com",
+      "www.heraldnews.com",
+      "www.heraldtribune.com",
+      "www.hillsdale.net",
+      "www.hockessincommunitynews.com",
+      "www.hollandsentinel.com",
+      "www.houmatoday.com",
+      "www.htrnews.com",
+      "www.hutchnews.com",
+      "www.indeonline.com",
+      "www.independentmail.com",
+      "www.indystar.com",
+      "www.ithacajournal.com",
+      "www.jacksonnewspapers.com",
+      "www.jacksonsun.com",
+      "www.jacksonville.com",
+      "www.jconline.com",
+      "www.jdnews.com",
+      "www.journaldemocrat.com",
+      "www.journalstandard.com",
+      "www.jsonline.com",
+      "www.kinston.com",
+      "www.kiowacountysignal.com",
+      "www.kitsapsun.com",
+      "www.knoxnews.com",
+      "www.lajuntatribunedemocrat.com",
+      "www.lakenewsonline.com",
+      "www.lancastereaglegazette.com",
+      "www.lansingstatejournal.com",
+      "www.lcsun-news.com",
+      "www.ldnews.com",
+      "www.leavenworthtimes.com",
+      "www.leesvilledailyleader.com",
+      "www.lenconnect.com",
+      "www.leominsterchamp.com",
+      "www.lincolncourier.com",
+      "www.linkbostonhomes.com",
+      "www.linncountyleader.com",
+      "www.livingstondaily.com",
+      "www.lohud.com",
+      "www.lubbockonline.com",
+      "www.mansfieldnewsjournal.com",
+      "www.marionstar.com",
+      "www.marshfieldnewsherald.com",
+      "www.mcdonoughvoice.com",
+      "www.metrowestdailynews.com",
+      "www.middletowntranscript.com",
+      "www.midlothianmirror.com",
+      "www.milfordbeacon.com",
+      "www.milforddailynews.com",
+      "www.millburysutton.com",
+      "www.monroecopost.com",
+      "www.monroenews.com",
+      "www.montenews.com",
+      "www.montgomeryadvertiser.com",
+      "www.morningsun.net",
+      "www.mortontimesnews.com",
+      "www.mpnnow.com",
+      "www.mtshastanews.com",
+      "www.mycentraljersey.com",
+      "www.naplesnews.com",
+      "www.ncnewspress.com",
+      "www.nevadaiowajournal.com",
+      "www.newarkadvocate.com",
+      "www.newbernsj.com",
+      "www.newcomerstown-news.com",
+      "www.newportri.com",
+      "www.news-journalonline.com",
+      "www.news-leader.com",
+      "www.news-press.com",
+      "www.news-star.com",
+      "www.newschief.com",
+      "www.newsherald.com",
+      "www.newsleader.com",
+      "www.newstribune.info",
+      "www.njherald.com",
+      "www.northjersey.com",
+      "www.northneighbornews.com",
+      "www.norwichbulletin.com",
+      "www.nwfdailynews.com",
+      "www.oakridger.com",
+      "www.ocala.com",
+      "www.oklahoman.com",
+      "www.onlineathens.com",
+      "www.ottawaherald.com",
+      "www.pal-item.com",
+      "www.palmbeachdailynews.com",
+      "www.palmbeachpost.com",
+      "www.paris-express.com",
+      "www.patriotledger.com",
+      "www.pawhuskajournalcapital.com",
+      "www.pekintimes.com",
+      "www.petoskeynews.com",
+      "www.pjstar.com",
+      "www.pnj.com",
+      "www.poconorecord.com",
+      "www.pontiacdailyleader.com",
+      "www.portclintonnewsherald.com",
+      "www.postcrescent.com",
+      "www.postsouth.com",
+      "www.poughkeepsiejournal.com",
+      "www.pratttribune.com",
+      "www.press-citizen.com",
+      "www.pressargus.com",
+      "www.pressconnects.com",
+      "www.progress-index.com",
+      "www.prosperpressnews.com",
+      "www.providencejournal.com",
+      "www.publicopiniononline.com",
+      "www.record-courier.com",
+      "www.recordnet.com",
+      "www.recordonline.com",
+      "www.recordstar.com",
+      "www.redding.com",
+      "www.redwoodfallsgazette.com",
+      "www.registerguard.com",
+      "www.reporter-times.com",
+      "www.reporternews.com",
+      "www.rgj.com",
+      "www.ridgecrestca.com",
+      "www.rrstar.com",
+      "www.ruidosonews.com",
+      "www.runnelscountyregister.com",
+      "www.salina.com",
+      "www.savannahnow.com",
+      "www.scsun-news.com",
+      "www.scsuntimes.com",
+      "www.sctimes.com",
+      "www.seacoastonline.com",
+      "www.sekvoice.com",
+      "www.sheboyganpress.com",
+      "www.shelbystar.com",
+      "www.shreveporttimes.com",
+      "www.sj-r.com",
+      "www.sjnewsonline.com",
+      "www.sleepyeyenews.com",
+      "www.sooeveningnews.com",
+      "www.southbendtribune.com",
+      "www.southcoasttoday.com",
+      "www.srpressgazette.com",
+      "www.starcourier.com",
+      "www.stargazette.com",
+      "www.starnewsonline.com",
+      "www.statesman.com",
+      "www.statesmanjournal.com",
+      "www.staugustine.com",
+      "www.steubencourier.com",
+      "www.stevenspointjournal.com",
+      "www.stjamesnews.com",
+      "www.storycityherald.com",
+      "www.sturgisjournal.com",
+      "www.sussexcountian.com",
+      "www.swtimes.com",
+      "www.taftmidwaydriller.com",
+      "www.tallahassee.com",
+      "www.tauntongazette.com",
+      "www.tcpalm.com",
+      "www.telegram.com",
+      "www.tennessean.com",
+      "www.the-daily-record.com",
+      "www.the-dispatch.com",
+      "www.the-leader.com",
+      "www.the-review.com",
+      "www.theadvertiser.com",
+      "www.thecalifornian.com",
+      "www.thedailyjournal.com",
+      "www.thedailyreporter.com",
+      "www.thedestinlog.com",
+      "www.thegardnernews.com",
+      "www.thegleaner.com",
+      "www.thegraftonnews.com",
+      "www.thehawkeye.com",
+      "www.theintell.com",
+      "www.thekansan.com",
+      "www.thelandmark.com",
+      "www.theleafchronicle.com",
+      "www.theledger.com",
+      "www.thenews-messenger.com",
+      "www.thenewsstar.com",
+      "www.thenorthwestern.com",
+      "www.theperrychief.com",
+      "www.thepublicopinion.com",
+      "www.therecordherald.com",
+      "www.therolladailynews.com",
+      "www.thespectrum.com",
+      "www.thestarpress.com",
+      "www.thesuburbanite.com",
+      "www.thetimesherald.com",
+      "www.thetimesnews.com",
+      "www.thetowntalk.com",
+      "www.times-gazette.com",
+      "www.timesonline.com",
+      "www.timesrecordnews.com",
+      "www.timesreporter.com",
+      "www.timestelegram.com",
+      "www.tmnews.com",
+      "www.tricountyindependent.com",
+      "www.tricountytimes.com",
+      "www.tuscaloosanews.com",
+      "www.usatoday.com",
+      "www.uticaod.com",
+      "www.vanalstyneleader.com",
+      "www.vcstar.com",
+      "www.visaliatimesdelta.com",
+      "www.vvdailypress.com",
+      "www.waltonsun.com",
+      "www.washingtontimesreporter.com",
+      "www.wausaudailyherald.com",
+      "www.waynepost.com",
+      "www.weeklycitizen.com",
+      "www.wellingtondailynews.com",
+      "www.wisconsinrapidstribune.com",
+      "www.woodfordtimes.com",
+      "www.worcestermag.com",
+      "www.ydr.com",
+      "www.yourglenrosetx.com",
+      "www.yourstephenvilletx.com",
+      "www.zanesvilletimesrecorder.com"
+    ],
+    "elementsToRemove": [
+      "div[class^='sp_veil']",
+      "div[class^='sp_message_container']"
+    ]
+  },
+  "hearst": {
+    "matches": [
+      "www.sfchronicle.com",
+      "www.houstonchronicle.com"
+    ],
+    "elementsToRemove": [
+      ".fancybox-wrap",
+      ".fancybox-overlay"
+    ]
+  },
+  "hearst-2": {
+    "matches": [
+      "www.chron.com",
+      "www.newstimes.com",
+      "www.greenwichtime.com",
+      "www.stamfordadvocate.com",
+      "www.ctpost.com",
+      "www.middletownpress.com",
+      "www.nhregister.com",
+      "www.thehour.com",
+      "www.thetelegraph.com",
+      "www.theintelligencer.com",
+      "www.myjournalcourier.com",
+      "www.michigansthumb.com",
+      "www.ourmidland.com",
+      "www.timesunion.com",
+      "www.lmtonline.com",
+      "www.myplainview.com",
+      "www.expressnews.com"
+    ],
+    "elementsToRemove": [
+      "div[style*='z-index: 2147483647']"
+    ]
+  },
+  "ign": {
+    "matches": [
+      "www.ign.com"
+    ],
+    "elementsToRemove": [
+      ".fc-ab-root",
+      ".fEy1Z2XT"
+    ]
+  },
+  "independent": {
+    "matches": [
+      "www.independent.co.uk"
+    ],
+    "elementsToRemove": [
+      ".tp-modal",
+      ".tp-backdrop"
+    ]
+  },
+  "insider": {
+    "matches": [
+      "www.insider.com",
+      "www.businessinsider.com"
+    ],
+    "elementsToRemove": [
+      ".tp-modal",
+      ".tp-backdrop"
+    ]
+  },
+  "investing": {
+    "matches": [
+      "investing.com"
+    ],
+    "elementsToRemove": [
+      "#abPopup",
+      "div[class*='adBlock-popup_popup--adblock-detected']",
+      "#__next>div[class*=overlay_overlay]"
+    ]
+  },
+  "jpimedia": {
+    "matches": [
+      "www.scotsman.com",
+      "www.thestar.co.uk",
+      "www.yorkshirepost.co.uk",
+      "www.newsletter.co.uk"
+    ],
+    "elementsToRemove": [
+      ".tp-modal",
+      ".tp-backdrop"
+    ]
+  },
+  "latimes": {
+    "matches": [
+      "www.latimes.com"
+    ],
+    "elementsToRemove": [
+      ".fc-ab-root"
+    ]
+  },
+  "lifesavvymedia": {
+    "matches": [
+      "www.howtogeek.com",
+      "www.reviewgeek.com",
+      "www.lifesavvy.com",
+      "www.cloudsavvyit.com",
+      "www.mindbounce.com"
+    ],
+    "elementsToRemove": [
+      ".fEy1Z2XT"
+    ]
+  },
+  "mcclatchy": {
+    "matches": [
+      "www.bnd.com",
+      "www.bellinghamherald.com",
+      "www.bradenton.com",
+      "www.centredaily.com",
+      "www.charlotteobserver.com",
+      "www.ledger-enquirer.com",
+      "www.fresnobee.com",
+      "www.heraldonline.com",
+      "www.heraldsun.com",
+      "www.idahostatesman.com",
+      "www.islandpacket.com",
+      "www.kansas.com",
+      "www.kansascity.com",
+      "www.kentucky.com",
+      "www.miamiherald.com",
+      "www.elnuevoherald.com",
+      "www.modbee.com",
+      "www.newsobserver.com",
+      "www.theolympian.com",
+      "www.sacbee.com",
+      "www.star-telegram.com",
+      "www.thestate.com",
+      "www.sunherald.com",
+      "www.myrtlebeachonline.com",
+      "www.thenewstribune.com",
+      "www.macon.com",
+      "www.sanluisobispo.com",
+      "www.tri-cityherald.com"
+    ],
+    "elementsToRemove": [
+      ".fc-ab-root"
+    ]
+  },
+  "medianewsgroup": {
+    "matches": [
+      "www.chicoer.com",
+      "www.times-standard.com",
+      "www.presstelegram.com",
+      "www.montereyherald.com",
+      "www.marinij.com",
+      "www.dailybulletin.com",
+      "www.pasadenastarnews.com",
+      "www.redlandsdailyfacts.com",
+      "www.sbsun.com",
+      "www.mercurynews.com",
+      "www.silliconvalley.com",
+      "www.santacruzsentinel.com",
+      "www.dailybreeze.com",
+      "www.ukiahdailyjournal.com",
+      "www.thereporter.com",
+      "www.timesheraldonline.com",
+      "www.eastbaytimes.com",
+      "www.sgvtribune.com",
+      "www.whittierdailynews.com",
+      "www.dailydemocrat.com",
+      "www.dailynews.com",
+      "www.ocregister.com",
+      "www.pe.com",
+      "www.orovillemr.com",
+      "www.record-bee.com",
+      "www.redbluffdailynews.com",
+      "www.pvnews.com",
+      "www.gazettes.com",
+      "www.advocate-news.com",
+      "www.mendocinobeacon.com",
+      "www.paradisepost.com",
+      "www.redwoodtimes.com",
+      "www.willitsnews.com",
+      "www.impactousa.com",
+      "www.thecannifornian.com",
+      "www.denverpost.com",
+      "www.dailycamera.com",
+      "www.coloradodaily.com",
+      "www.canoncitydailyrecord.com",
+      "www.fortmorgantimes.com",
+      "www.timescall.com",
+      "www.reporterherald.com",
+      "www.journal-advocate.com",
+      "www.akronnewsreporter.com",
+      "www.broomfieldenterprise.com",
+      "www.brushnewstribune.com",
+      "www.buffzone.com",
+      "www.eptrail.com",
+      "www.lamarledger.com",
+      "www.burlington-record.com",
+      "www.coloradohometownweekly.com",
+      "www.longmontweekly.com",
+      "www.bostonherald.com",
+      "www.sentinelandenterprise.com",
+      "www.thevalleydispatch.com",
+      "www.whatdoyouwannado.com",
+      "www.nashobavalleyvoice.com",
+      "www.sourcenewspapers.com",
+      "www.pressandguide.com",
+      "www.macombdaily.com",
+      "www.themorningsun.com",
+      "www.voicenews.com",
+      "www.theoaklandpress.com",
+      "www.miprepzone.com",
+      "www.goanddomichigan.com",
+      "www.dailytribune.com",
+      "www.thenewsherald.com",
+      "www.twincities.com",
+      "www.southjerseylocalnews.com",
+      "www.trentonian.com",
+      "www.dailyfreeman.com",
+      "www.oneidadispatch.com",
+      "www.saratogian.com",
+      "www.cnweekly.com",
+      "www.troyrecord.com",
+      "www.morningjournal.com",
+      "www.news-herald.com",
+      "www.mainlinemedianews.com",
+      "www.buckslocalnews.com",
+      "www.montgomerynews.com",
+      "www.delconewsnetwork.com",
+      "www.thereporteronline.com",
+      "www.timesherald.com",
+      "www.phoenixvillenews.com",
+      "www.pottsmerc.com",
+      "www.berksmontnews.com",
+      "www.pennypincherpa.com",
+      "www.delcotimes.com",
+      "www.dailylocal.com",
+      "www.southernchestercountyweeklies.com",
+      "www.allaroundphilly.com",
+      "www.readingeagle.com"
+    ],
+    "elementsToRemove": [
+      ".modal-scrollable",
+      ".connext-modal-backdrop"
+    ]
+  },
+  "nbcuniversal": {
+    "matches": [
+      "www.msnbc.com",
+      "www.today.com",
+      "www.nbcnews.com",
+      "www.cnbc.com"
+    ],
+    "elementsToRemove": [
+      "div[style*='z-index: 2147483647']"
+    ]
+  },
+  "netaktion": {
+    "matches": [
+      "www.allmusic.com",
+      "www.allmovie.com",
+      "www.sidereel.com"
+    ],
+    "elementsToRemove": [
+      ".blocking-ads-modal"
+    ]
+  },
+  "nu": {
+    "matches": [
+      "nu.nl"
+    ],
+    "elementsToRemove": [
+      ".adblocker"
+    ]
+  },
+  "onlysky": {
+    "matches": [
+      "onlysky.media"
+    ],
+    "elementsToRemove": [
+      ".fc-ab-root"
+    ]
+  },
+  "planetsport": {
+    "matches": [
+      "www.planetfootball.com"
+    ],
+    "elementsToRemove": [
+      ".unis"
+    ]
+  },
+  "rcsmediagroup": {
+    "matches": [
+      "www.expansion.com",
+      "www.telva.com",
+      "www.elmundo.es",
+      "www.marca.com"
+    ],
+    "elementsToRemove": [
+      ".fc-ab-root"
+    ]
+  },
+  "rottentomatoes": {
+    "matches": [
+      "www.rottentomatoes.com"
+    ],
+    "elementsToRemove": [
+      ".fEy1Z2XT"
+    ]
+  },
+  "ruinmyweek": {
+    "matches": [
+      "ruinmyweek.com"
+    ],
+    "elementsToRemove": [
+      ".fEy1Z2XT"
+    ]
+  },
+  "sltrib": {
+    "matches": [
+      "www.sltrib.com"
+    ],
+    "elementsToRemove": [
+      ".tp-modal",
+      ".tp-backdrop"
+    ]
+  },
+  "spanishdict": {
+    "matches": [
+      "www.spanishdict.com",
+      "www.ingles.com"
+    ],
+    "elementsToRemove": [
+      ".ReactModal__Overlay ReactModal__Overlay--after-open"
+    ]
+  },
+  "tampabay": {
+    "matches": [
+      "www.tampabay.com"
+    ],
+    "elementsToRemove": [
+      ".Mg2-connext"
+    ]
+  },
+  "toptenz": {
+    "matches": [
+      "www.toptenz.net"
+    ],
+    "elementsToRemove": [
+      ".fEy1Z2XT"
+    ]
+  },
+  "tvtropes": {
+    "matches": [
+      "tvtropes.org"
+    ],
+    "elementsToRemove": [
+      ".adblockModal"
+    ]
+  },
+  "weather": {
+    "matches": [
+      "weather.com"
+    ],
+    "elementsToRemove": [
+      ".tp-modal",
+      ".tp-backdrop"
+    ]
+  }
+}
